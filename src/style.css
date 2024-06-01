@@ -1,0 +1,39 @@
+html,
+body {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#webgl {
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+}
+
+.logo {
+  width: 32px;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  color: #646464;
+  font-size: 0.8rem;
+}
+
+.footer a {
+  color: #6b84cc;
+  text-decoration: none;
+  margin: 0 0.25rem;
+}
+
