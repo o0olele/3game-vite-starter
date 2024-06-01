@@ -1,5 +1,5 @@
-# babylon-vite-starter
-babylon starter with typescript and vite, support websocket.
+# 3game-vite-starter
+three js game starter with typescript and vite, support websocket.
 
 # Usage
 - init
